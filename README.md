@@ -16,9 +16,11 @@ This project presents a full SQL-based pipeline for cleaning and analyzing a lar
 - Dataset: Layoffs (15,000+ records)
 
 ## Project Structure  
+```python
 ├── Data Cleaning Project.sql # SQL script to clean raw layoff data
 ├── EDA Project.sql # SQL script with business-focused analysis
 ├── README.md # Project documentation
+```
 
 ## Key Metrics & Achievements  
 - Cleaned and standardized over **15,000 records**  
